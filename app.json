@@ -1,18 +1,7 @@
 {
-  "addons": [
-
-  ],
-  "buildpacks": [
-    {
-      "url": "heroku/python"
-    }
-  ],
-  "env": {
-  },
-  "formation": {
-  },
-  "name": "jarra-app-google",
-  "scripts": {
-  },
-  "stack": "heroku-18"
+  "name": "jarra",
+  "description": "jarra with google home",
+  "repository": "https://github.com/imadd1/jarra-app-google",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["esp8266", "google home", "wihtout ifttt", "iot", "arduino"]
 }
